@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 1562416379
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0457184b25beea2f0a4db9a88f3ad1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa18ee71ea3683b0edc9ca9f2f33cd0a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57c008f954fe54a8bb972de1018a2cb8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 097b551f2844b054290f18a39bf892e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30ae93fb156fc6d4c828c64571fc3edd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c0f36e38ed061c141b9ca0bc853bd748, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1f664a4c4245ec4f84137188209e9e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c29cff538c195c249b69c6f2236de67b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed8b1ae4e4e52b34ea557c1c11e076fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9a419daec90432458cae4e9ae74d26e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Game2DWaterKit.Demo.GatorControllerNew/PlayerUnderwaterEvent
+- AssemblyName: Unity.2D.Animation.Runtime
+  ClassName: UnityEngine.U2D.Animation.SpriteCategoryEntry
+- AssemblyName: Unity.2D.Animation.Runtime
+  ClassName: UnityEngine.U2D.Animation.SpriteLibCategory
+- AssemblyName: Unity.2D.IK.Runtime
+  ClassName: UnityEngine.U2D.IK.IKChain2D
+- AssemblyName: Unity.2D.IK.Runtime
+  ClassName: UnityEngine.U2D.IK.IKManager2D/SolverEditorData
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+Assets:
+- Assets/BundledAssets/testbundle/Gator.prefab
+Dependencies:
+- L:/Unity/Projects/New Gators/Gators/Assets/StreamingAssets/eyesbundle
+- L:/Unity/Projects/New Gators/Gators/Assets/StreamingAssets/mouthbundle
+- L:/Unity/Projects/New Gators/Gators/Assets/StreamingAssets/neckbundle
+- L:/Unity/Projects/New Gators/Gators/Assets/StreamingAssets/skinbundle
+- L:/Unity/Projects/New Gators/Gators/Assets/StreamingAssets/specialsbundle

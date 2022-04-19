@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 4026940610
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0d5125ace633f409c6a93a1b46b53b5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Gator Assets/Eyes/cyborg-01.png
+- Assets/Gator Assets/Eyes/purple-01.png
+- Assets/Gator Assets/Eyes/geynah-01.png
+- Assets/Gator Assets/Eyes/suspicious-01.png
+- Assets/Gator Assets/Eyes/glasses-01.png
+- Assets/Gator Assets/Eyes/sexy eyes-01.png
+- Assets/Gator Assets/Eyes/red-01.png
+- Assets/Gator Assets/Eyes/default-01.png
+- Assets/Gator Assets/Eyes/blacked out-01.png
+- Assets/Gator Assets/Eyes/dead-01.png
+- Assets/Gator Assets/Eyes/Sleepy-01.png
+- Assets/Gator Assets/Eyes/Surprised-01.png
+- Assets/Gator Assets/Eyes/boring-01.png
+- Assets/Gator Assets/Eyes/green-01.png
+- Assets/Gator Assets/Eyes/trippy-01.png
+- Assets/Gator Assets/Eyes/sunglasess-01.png
+- Assets/Gator Assets/Eyes/blue-01.png
+- Assets/Gator Assets/Eyes/kawaii-01.png
+- Assets/Gator Assets/Eyes/winky-01.png
+- Assets/Gator Assets/Eyes/stoned-01.png
+- Assets/Gator Assets/Eyes/googly-01.png
+Dependencies: []

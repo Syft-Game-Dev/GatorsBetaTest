@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2730060002
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4d90cfadb264d6df75a59865e2d1c841
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Gator Assets/Specials/Angle-01.png
+- Assets/Gator Assets/Specials/plane-01.png
+- Assets/Gator Assets/Specials/Robot-01.png
+- Assets/Gator Assets/Specials/spider-01.png
+- Assets/Gator Assets/Specials/devil-01.png
+- Assets/Gator Assets/Specials/Helicopter-01.png
+Dependencies: []

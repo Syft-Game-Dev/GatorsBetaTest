@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 1530281053
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e6919d0085ccdd58f61b3009881cefe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Gator Assets/Mouth/drum stick-01.png
+- Assets/Gator Assets/Mouth/bubble gum-01.png
+- Assets/Gator Assets/Mouth/human arm-01.png
+- Assets/Gator Assets/Mouth/green flame-01.png
+- Assets/Gator Assets/Mouth/uzi-01.png
+- Assets/Gator Assets/Mouth/red flame-01.png
+- Assets/Gator Assets/Mouth/men`s leg-01.png
+- Assets/Gator Assets/Mouth/woman leg -01.png
+- Assets/Gator Assets/Mouth/pizza-01.png
+- Assets/Gator Assets/Mouth/blue flame-01.png
+- Assets/Gator Assets/Mouth/chicken in mouth-01.png
+- Assets/Gator Assets/Mouth/tounge out-01.png
+- Assets/Gator Assets/Mouth/fire flame-01.png
+- Assets/Gator Assets/Mouth/gun.png
+- Assets/Gator Assets/Mouth/guitar-01.png
+- Assets/Gator Assets/Mouth/water flame-01.png
+- Assets/Gator Assets/Mouth/gold teeth-01.png
+- Assets/Gator Assets/Mouth/bone-01.png
+- Assets/Gator Assets/Mouth/money-01.png
+- Assets/Gator Assets/Mouth/mouse-01.png
+- Assets/Gator Assets/Mouth/bird-01.png
+- Assets/Gator Assets/Mouth/dafault-01.png
+- Assets/Gator Assets/Mouth/rainbow teeth-01.png
+Dependencies: []

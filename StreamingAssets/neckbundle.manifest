@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 408244148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d48f192a7a36eaa84d0ce4ff20f8e798
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Gator Assets/Neck/black bandana-01.png
+- Assets/Gator Assets/Neck/dafault black-01.png
+- Assets/Gator Assets/Neck/dafult -01.png
+- Assets/Gator Assets/Neck/dafult green-01.png
+- Assets/Gator Assets/Neck/@kbaby chain-01.png
+- Assets/Gator Assets/Neck/dafult blue -01.png
+- Assets/Gator Assets/Neck/green bandana-01.png
+- Assets/Gator Assets/Neck/red bandana-01.png
+- Assets/Gator Assets/Neck/Gold-01.png
+- Assets/Gator Assets/Neck/Eth chain-01.png
+Dependencies: []

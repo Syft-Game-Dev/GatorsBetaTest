@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 366503168
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e02607591914010ee7530f07e316feb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Gator Assets/Skin/glass-01.png
+- Assets/Gator Assets/Skin/Wood-01.png
+- Assets/Gator Assets/Skin/rainbow 2-01.png
+- Assets/Gator Assets/Skin/brick.png
+- Assets/Gator Assets/Skin/fire-01.png
+- Assets/Gator Assets/Skin/Silver-01.png
+- Assets/Gator Assets/Skin/lava rock-01.png
+- Assets/Gator Assets/Skin/rainbow 03-01.png
+- Assets/Gator Assets/Skin/zombie-01.png
+- Assets/Gator Assets/Skin/Purple-01.png
+- Assets/Gator Assets/Skin/rock-01.png
+- Assets/Gator Assets/Skin/cheetah2-01.png
+- Assets/Gator Assets/Skin/flass-01.png
+- Assets/Gator Assets/Skin/Tiger1-01.png
+- Assets/Gator Assets/Skin/Sapphire-01.png
+- Assets/Gator Assets/Skin/cheetah-01.png
+- Assets/Gator Assets/Skin/broke-01.png
+- Assets/Gator Assets/Skin/Robot-01.png
+- Assets/Gator Assets/Skin/daimond-01.png
+- Assets/Gator Assets/Skin/robot.png
+- Assets/Gator Assets/Skin/galaxy-01.png
+- Assets/Gator Assets/Skin/Yellow-01.png
+- Assets/Gator Assets/Skin/camo-01.png
+- Assets/Gator Assets/Skin/gold-01.png
+- Assets/Gator Assets/Skin/Glacier-01.png
+- Assets/Gator Assets/Skin/bubble-01.png
+- Assets/Gator Assets/Skin/red-01.png
+Dependencies: []

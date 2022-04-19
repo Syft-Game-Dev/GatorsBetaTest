@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 4047940962
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testbundle
+      Dependencies:
+        Dependency_0: eyesbundle
+        Dependency_1: mouthbundle
+        Dependency_2: neckbundle
+        Dependency_3: skinbundle
+        Dependency_4: specialsbundle
+    Info_1:
+      Name: eyesbundle
+      Dependencies: {}
+    Info_2:
+      Name: mouthbundle
+      Dependencies: {}
+    Info_3:
+      Name: neckbundle
+      Dependencies: {}
+    Info_4:
+      Name: skinbundle
+      Dependencies: {}
+    Info_5:
+      Name: specialsbundle
+      Dependencies: {}
